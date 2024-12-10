@@ -1,0 +1,51 @@
+[
+    {
+        "userId": "12345",
+        "parkName": "Dino Kingdom",
+        "coins": 1200,
+        "dinosaurIds": [1, 4],
+        "recintosIds": [3, 4]
+    },
+    {
+        "userId": "67890",
+        "parkName": "Prehistoric World",
+        "coins": 700,
+        "dinosaurIds": [2, 5],
+        "recintosIds": [1, 3]
+    },
+    {
+        "userId": "acecbc76-c24a-4e5a-8847-b00716347366",
+        "parkName": "Jurassic Adventure",
+        "coins": 300,
+        "dinosaurIds": [3, 4],
+        "recintosIds": [2]
+    },
+    {
+        "userId": "8efb984b-90a1-4001-bea1-02b3bc9c4e2d",
+        "parkName": "Lost World",
+        "coins": 50,
+        "dinosaurIds": [5],
+        "recintosIds": [1]
+    },
+    {
+        "userId": "4616cacf-643f-45bf-9cf5-1c0582be0d8e",
+        "parkName": "Dinosaur Oasis",
+        "coins": 800,
+        "dinosaurIds": [1, 5],
+        "recintosIds": [4]
+    },
+    {
+        "userId": "64582fa4-64af-46e0-80f8-6b25eebd4805",
+        "parkName": "Dino Paradise",
+        "coins": 250,
+        "dinosaurIds": [2],
+        "recintosIds": [2]
+    },
+    {
+        "userId": "5ed92af1-5d10-4318-a903-a6b2a61fdea4",
+        "parkName": "Fossil Land",
+        "coins": 450,
+        "dinosaurIds": [4],
+        "recintosIds": [3]
+    }
+]

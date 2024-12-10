@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Dracorex",
+        "scientificName": "Dracorex hogwartsia",
+        "cost": 550,
+        "requiredRecintoId": 1,
+        "image": "images/dinosaurs/dracorex.webp"
+    },
+    {
+        "id": 2,
+        "name": "Giganotosaurus",
+        "scientificName": "Giganotosaurus carolinii",
+        "cost": 450,
+        "requiredRecintoId": 1,
+        "image": "images/dinosaurs/giganotosaurus.webp"
+    },
+    {
+        "id": 3,
+        "name": "Gallimimus",
+        "scientificName": "Gallimimus bullatus",
+        "cost": 300,
+        "requiredRecintoId": 2,
+        "image": "images/dinosaurs/gallimimus.webp"
+    },
+    {
+        "id": 4,
+        "name": "Corythosaurus",
+        "scientificName": "Corythosaurus casuarius",
+        "cost": 650,
+        "requiredRecintoId": 3,
+        "image": "images/dinosaurs/corythosaurus.webp"
+    },
+    {
+        "id": 5,
+        "name": "Edmontosaurus",
+        "scientificName": "Edmontosaurus regalis",
+        "cost": 400,
+        "requiredRecintoId": 2,
+        "image": "images/dinosaurs/edmontosaurus.webp"
+    },
+    {
+        "id": 6,
+        "name": "Archaeopteryx",
+        "scientificName": "Archaeopteryx lithographica",
+        "cost": 500,
+        "requiredRecintoId": 4,
+        "image": "images/dinosaurs/archaeopteryx.webp"
+    },
+    {
+        "id": 7,
+        "name": "Allosaurus",
+        "scientificName": "Allosaurus fragilis",
+        "cost": 750,
+        "requiredRecintoId": 1,
+        "image": "images/dinosaurs/allosaurus.webp"
+    },
+    {
+        "id": 8,
+        "name": "Tuatara",
+        "scientificName": "Sphenodon punctatus",
+        "cost": 420,
+        "requiredRecintoId": 2,
+        "image": "images/dinosaurs/tuatara.webp"
+    },
+    {
+        "id": 9,
+        "name": "Amargasaurus",
+        "scientificName": "Amargasaurus cazaui",
+        "cost": 330,
+        "requiredRecintoId": 2,
+        "image": "images/dinosaurs/amargasaurus.webp"
+    },
+    {
+        "id": 10,
+        "name": "Plesiosaurus",
+        "scientificName": "Plesiosaurus dolichodeirus",
+        "cost": 850,
+        "requiredRecintoId": 5,
+        "image": "images/dinosaurs/plesiosaurus.webp"
+    }
+]
